@@ -1,0 +1,5 @@
+---
+title: " "
+---
+<p> Por favor contáctame a través de: </p>
+<a href="mailto:leortiz@uc.cl" class="email">leortiz@uc.cl</a>

@@ -1,0 +1,22 @@
+name: "Luis Ortiz Cevallos"
+output_dir: "."
+navbar:
+  title: "Luis Ortiz Cevallos"
+  left:
+    - text: "Publicaciones"
+      href: PUBLI.html
+    - text: "Presentaciones y Conferencias"
+      href: PRES.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: EMAIL.html
+    - icon: fa-github fa-lg
+      href: https://github.com/Ortiz-Cevallos
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/YoEcon
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/luis-ortiz-cevallos-2a6bb162/
+output:
+  html_document:
+    theme: cosmo
+    css: 'styles.css'
