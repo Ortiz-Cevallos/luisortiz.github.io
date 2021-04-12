@@ -1,6 +1,9 @@
 ---
 title: "Publicaciones"
 ---
+-  <strong>Ortiz, L.</strong> (2020). Propuesta De Un Indicador De Riesgo Sistémico Para El Triángulo Norte De Centroamérica. Documento de Trabajo No. 3, septiembre 2020. Secretaría Ejecutiva del Consejo Monetario Centroamericano. <a href="http://www.secmca.org/wp-content/uploads/2020/09/PROPUESTA-DE-UN-INDICADOR-DE-RIESGO-SIST%C3%89MICO-PARA-EL-TRI%C3%81NGULO-NORTE-DE-CENTROAM%C3%89RICA.pdf" class="email">[PDF]</a> 
+
+
 -  <strong>Ortiz, L.</strong> (2019). El Mapa de Calor. Instrumento para la identificación de vulnerabilidad macroeocnómicas para la región. Notas Económicas Regionales No. 102, abril 2019. Secretaría Ejecutiva del Consejo Monetario Centroamericano. <a href="http://www.secmca.org/wp-content/uploads/2019/05/Nota-Económica-Regional-No.-102.pdf" class="email">[PDF]</a> 
 
 - <strong>Ortiz, L.</strong> (2018). Requerimiento de Capital Contracíclico y Gap de Crédito en Centroamérica. Notas Económicas Regionales No. 97, agosto 2018. Secretaría Ejecutiva del Consejo Monetario Centroamericano.<a href="http://www.secmca.org/wp-content/uploads/2019/02/articulo97AGO2018.pdf" class="email">[PDF]</a>  
